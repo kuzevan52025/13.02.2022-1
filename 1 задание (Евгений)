@@ -1,0 +1,11 @@
+int main(){
+    float a, b, c, D;
+    scanf("%f", &a);
+    scanf("%f", &b);
+    scanf("%f", &c);
+       //printf("Рассчитаем квадратное уравнение a*x* + b*x + c\n";
+    D = b* - 4*a*c
+    printf("%f\n", D)
+
+    return 0;
+}
